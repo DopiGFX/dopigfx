@@ -1,54 +1,22 @@
-<style>
-  .outer-wrapper {
-  }
-
-  .inner-wrapper {
-   
-  }
-
-  .tool-container {
-  }
-
-  .description-container {
-  }
-</style>
-<div style="
-    background: #00B9FF;
-    background: linear-gradient(180deg, rgba(0, 185, 255, 1) 0%, rgba(241, 0, 100, 1) 100%);
-    border-radius: 10px;
-    padding: 5px;
-    color: black;
-">
-  <div style="
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    border-radius: 5px;
-    background-color: #fffa;
-  ">
+<div>
+  <div>
     <h1 align="center">Hi 👋, I'm DopiGFX</h1>
     <h3 align="center">A Fullstack Developer from Germany</h3>
-    <p>
+    <p align="center">
       <img
         src="https://komarev.com/ghpvc/?username=dopigfx&label=Profile%20views&color=0e75b6&style=flat"
         alt="dopigfx"
       />
     </p>
-    <div style="
-      display: flex;
-      flex-direction: column;
-      justify-content: start;
-      gap: 1rem;
-    ">
-      <span>🔭 I’m currently working on <b><a
+    <div align="center">
+      <p>🔭 I’m currently working on <b><a
             href="https://smeetabot.com"
             target="_blank"
           >SmeetaBot</a></b>
-      </span>
-      <span>🌱 I’m currently learning <b>Ruby</b></span>
-      <span>💬 Ask me about <b>Angular, Node.js, Deno, Java & MongoDB</b></span>
-      <span>📫 How to reach me:
+      </p>
+      <p>🌱 I’m currently learning <b>Ruby</b></p>
+      <p>💬 Ask me about <b>Angular, Node.js, Deno, Java & MongoDB</b></p>
+      <p>📫 How to reach me:
         <a
           href="https://discord.gg/dopigfx"
           target="blank"
@@ -62,17 +30,10 @@
           />
           <b>DopiGFX</b>
         </a>
-      </span>
+      </p>
     </div>
-    <h3>Languages</h3>
-    <div style="
-      max-width: 500px;
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 1rem;
-      padding-bottom: 1rem;
-    ">
+    <h3 align="center">Languages</h3>
+    <div align="center">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
         height="40"
@@ -109,15 +70,8 @@
         alt="typescript logo"
       />
     </div>
-    <h3>Frameworks/Runtimes</h3>
-    <div style="
-      max-width: 500px;
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 1rem;
-      padding-bottom: 1rem;
-    ">
+    <h3 align="center">Frameworks/Runtimes</h3>
+    <div align="center">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
         height="40"
@@ -149,15 +103,8 @@
         alt="qt logo"
       />
     </div>
-    <h3>Tools</h3>
-    <div style="
-      max-width: 500px;
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 1rem;
-      padding-bottom: 1rem;
-    ">
+    <h3 align="center">Tools</h3>
+    <div align="center">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
         height="40"
@@ -204,15 +151,8 @@
         alt="vscode logo"
       />
     </div>
-    <h3>OS</h3>
-    <div style="
-      max-width: 500px;
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 1rem;
-      padding-bottom: 1rem;
-    ">
+    <h3 align="center">OS</h3>
+    <div align="center">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"
         height="40"
