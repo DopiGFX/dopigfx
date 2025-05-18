@@ -1,39 +1,32 @@
 <style>
   .outer-wrapper {
+  }
+
+  .inner-wrapper {
+   
+  }
+
+  .tool-container {
+  }
+
+  .description-container {
+  }
+</style>
+<div style="
     background: #00B9FF;
     background: linear-gradient(180deg, rgba(0, 185, 255, 1) 0%, rgba(241, 0, 100, 1) 100%);
     border-radius: 10px;
     padding: 5px;
     color: black;
-  }
-
-  .inner-wrapper {
+">
+  <div style="
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     border-radius: 5px;
     background-color: #fffa;
-  }
-
-  .tool-container {
-    max-width: 500px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 1rem;
-    padding-bottom: 1rem;
-  }
-
-  .description-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: start;
-    gap: 1rem;
-  }
-</style>
-<div class="outer-wrapper">
-  <div class="inner-wrapper">
+  ">
     <h1 align="center">Hi 👋, I'm DopiGFX</h1>
     <h3 align="center">A Fullstack Developer from Germany</h3>
     <p>
@@ -42,7 +35,12 @@
         alt="dopigfx"
       />
     </p>
-    <div class="description-container">
+    <div style="
+      display: flex;
+      flex-direction: column;
+      justify-content: start;
+      gap: 1rem;
+    ">
       <span>🔭 I’m currently working on <b><a
             href="https://smeetabot.com"
             target="_blank"
@@ -67,7 +65,14 @@
       </span>
     </div>
     <h3>Languages</h3>
-    <div class="tool-container">
+    <div style="
+      max-width: 500px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 1rem;
+      padding-bottom: 1rem;
+    ">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
         height="40"
@@ -105,7 +110,14 @@
       />
     </div>
     <h3>Frameworks/Runtimes</h3>
-    <div class="tool-container">
+    <div style="
+      max-width: 500px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 1rem;
+      padding-bottom: 1rem;
+    ">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
         height="40"
@@ -138,7 +150,14 @@
       />
     </div>
     <h3>Tools</h3>
-    <div class="tool-container">
+    <div style="
+      max-width: 500px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 1rem;
+      padding-bottom: 1rem;
+    ">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
         height="40"
@@ -186,7 +205,14 @@
       />
     </div>
     <h3>OS</h3>
-    <div class="tool-container">
+    <div style="
+      max-width: 500px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 1rem;
+      padding-bottom: 1rem;
+    ">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"
         height="40"
