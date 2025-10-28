@@ -50,11 +50,6 @@
         alt="java logo"
       />
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-        height="40"
-        alt="javascript logo"
-      />
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
         height="40"
         alt="python logo"
@@ -76,11 +71,6 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
         height="40"
         alt="angularjs logo"
-      />
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-        height="40"
-        alt="bootstrap logo"
       />
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg"
@@ -121,11 +111,6 @@
         alt="eslint logo"
       />
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        height="40"
-        alt="git logo"
-      />
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"
         height="40"
         alt="grafana logo"
@@ -145,11 +130,6 @@
         height="40"
         alt="mysql logo"
       />
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-        height="40"
-        alt="vscode logo"
-      />
     </div>
     <h3 align="center">OS</h3>
     <div align="center">
@@ -157,11 +137,6 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg"
         height="40"
         alt="fedora logo"
-      />
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-        height="40"
-        alt="linux logo"
       />
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
