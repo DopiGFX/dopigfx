@@ -17,10 +17,7 @@
       <p>🌱 I’m currently learning <b>Ruby</b></p>
       <p>💬 Ask me about <b>Angular, Node.js, Deno, Java & MongoDB</b></p>
       <p>📫 How to reach me:
-        <a
-          href="https://discord.gg/dopigfx"
-          target="blank"
-        >
+        <span>
           <img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
@@ -29,7 +26,7 @@
             width="20"
           />
           <b>DopiGFX</b>
-        </a>
+        </span>
       </p>
     </div>
     <h3 align="center">Languages</h3>
